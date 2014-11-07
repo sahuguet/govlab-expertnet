@@ -1,0 +1,51 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Donald Gloo", 
+      "score": "2", 
+      "text": "\n\nAllison,\nThe best example of an Excel-based dashboard that I've seen was developed by the City of Cartersville, GA.  The developer was Tom Quist.  At the time, Tom worked for the city, but I believe he has since started his own consulting firm.  Here is a link to Tom's dashboard, which was posted to the KN back in 2012:\nhttp://icma.org/en/icma/knowledge_network/documents/kn/Document/303799/Sample_Performance_Management_Dashboard\n\n\nAllison,\n\nThe best example of an Excel-based dashboard that I've seen was developed by the City of Cartersville, GA.  The developer was Tom Quist.  At the time, Tom worked for the city, but I believe he has since started his own consulting firm.  Here is a link to Tom's dashboard, which was posted to the KN back in 2012:\n\nhttp://icma.org/en/icma/knowledge_network/documents/kn/Document/303799/Sample_Performance_Management_Dashboard\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "05-05-2014"
+    }, 
+    {
+      "author": "Allison Bittner", 
+      "score": "1", 
+      "text": "\n\nThanks! I actually looked up Tom's dashboard originally. I guess what I am asking is more of how to actually do the excel dashboard step by step. Or if a program was used- what type of program was it.\n\n\nThanks! I actually looked up Tom's dashboard originally. I guess what I am asking is more of how to actually do the excel dashboard step by step. Or if a program was used- what type of program was it.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "05-05-2014"
+    }, 
+    {
+      "author": "Chad Allen", 
+      "score": "0", 
+      "text": "\n\nAllison,\nThere are how to videos on YouTube. Additionally, some local libraries carry technical manuals for using Excel and other computer software. Perhaps with those resources you can get the info needed to create your dashboard.\nhttp://www.exceldashboardwidgets.com/\n\n\nAllison,\nThere are how to videos on YouTube. Additionally, some local libraries carry technical manuals for using Excel and other computer software. Perhaps with those resources you can get the info needed to create your dashboard.\nhttp://www.exceldashboardwidgets.com/\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "05-05-2014"
+    }, 
+    {
+      "author": "Thomas Quist", 
+      "score": "0", 
+      "text": "\n\nAllison,\nFirst, I'd like to tell you that I think you are smart to pursue an Excel-based dashboard.  Though I haven't really explored commercial software packages in a while, I have never seen anything that I was that impressed with (a vast majority of the products seemed to value style over substance:  \"Wow!  Cool 3D speedometer\").  Not to mention, the cost is also usually pretty significant.  Depending on the nature of your performance measurement program, it may be hard to find a software package that \"fits\" with your program.  Considerations may include 1) where your data is stored, 2) how it is collected, 3) how granular your data is, 4) how often you collect it, 5) how sophisticated your analysis needs are, and so on.  Using Excel allows you to the possibility of creating a tailored solution for your organizational needs and capabilities, and it uses a software platform that is ubiquitous.\nAll that said, Excel can be challenging to work with.  Most jurisdictions likely don't have someone in-house with the skills required to develop and maintain a functional dashboard in Excel.  Maybe YOU could be that person :)\nBefore I developed my first automated performance dashboard, I considered myself to be comfortable with Excel, but not necessarily an expert.  It took a lot of time and energy to develop the skills that would allow the creation of functional, automated, dynamic, and interactive dashboards.  However, there are some basic skills that you could likely master fairly quickly that would allow you to build some straightforward and basic dashboards.  Here are the topics I would recommend studying:\n1)  Dynamic Charts (some associated topics below)\n     -Named Ranges\n     -Index Function\n     -Offset Function\n     -Match Function\n2)  Data Visualization Best Practices\nThere are lots of great resources out there to help you along the way.  Here are just a couple of my favorites:\nFor all things Excel:\n-Chandoo (http://chandoo.org/wp/)\n-Excel Hero (http://www.excelhero.com/blog/)\n-Jon Peltier (http://peltiertech.com/)\nFor Data Visualization\n-Stephen Few (http://www.perceptualedge.com/blog/)\nGood luck!\nTom\nP.S. DON!  Thanks for the shout out!\n\n\nAllison,\n\nFirst, I'd like to tell you that I think you are smart to pursue an Excel-based dashboard.  Though I haven't really explored commercial software packages in a while, I have never seen anything that I was that impressed with (a vast majority of the products seemed to value style over substance:  \"Wow!  Cool 3D speedometer\").  Not to mention, the cost is also usually pretty significant.  Depending on the nature of your performance measurement program, it may be hard to find a software package that \"fits\" with your program.  Considerations may include 1) where your data is stored, 2) how it is collected, 3) how granular your data is, 4) how often you collect it, 5) how sophisticated your analysis needs are, and so on.  Using Excel allows you to the possibility of creating a tailored solution for your organizational needs and capabilities, and it uses a software platform that is ubiquitous.\n\nAll that said, Excel can be challenging to work with.  Most jurisdictions likely don't have someone in-house with the skills required to develop and maintain a functional dashboard in Excel.  Maybe YOU could be that person :)\n\nBefore I developed my first automated performance dashboard, I considered myself to be comfortable with Excel, but not necessarily an expert.  It took a lot of time and energy to develop the skills that would allow the creation of functional, automated, dynamic, and interactive dashboards.  However, there are some basic skills that you could likely master fairly quickly that would allow you to build some straightforward and basic dashboards.  Here are the topics I would recommend studying:\n\n1)  Dynamic Charts (some associated topics below)\n     -Named Ranges\n     -Index Function\n     -Offset Function\n     -Match Function\n\n2)  Data Visualization Best Practices\n\nThere are lots of great resources out there to help you along the way.  Here are just a couple of my favorites:\n\nFor all things Excel:\n-Chandoo (http://chandoo.org/wp/)\n-Excel Hero (http://www.excelhero.com/blog/)\n-Jon Peltier (http://peltiertech.com/)\n\nFor Data Visualization\n-Stephen Few (http://www.perceptualedge.com/blog/)\n\nGood luck!\n\nTom\n\nP.S. DON!  Thanks for the shout out!\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "07-05-2014"
+    }, 
+    {
+      "author": "Allison Bittner", 
+      "score": "0", 
+      "text": "\n\nThanks Chad and Tom! I have been doing the youtube tutorials to help me, and the sites that Tom sent. So far everything seems to be good. Thank you for all your help =)\n\n\nThanks Chad and Tom! I have been doing the youtube tutorials to help me, and the sites that Tom sent. So far everything seems to be good. Thank you for all your help =)\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "08-05-2014"
+    }, 
+    {
+      "author": "Eric Roche", 
+      "score": "0", 
+      "text": "\n\nChandoo is a great site.  They have some classes that you can take (for a fee) but a lot of their content is free!\nhttp://chandoo.org/wp/excel-dashboards/\n\n\nChandoo is a great site.  They have some classes that you can take (for a fee) but a lot of their content is free!\nhttp://chandoo.org/wp/excel-dashboards/\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "29-05-2014"
+    }
+  ], 
+  "answers_count": 6, 
+  "author": "Allison Bittner", 
+  "id": 23111, 
+  "score": "1", 
+  "tags": [
+    "Performance Management and Analytics"
+  ], 
+  "text": "\n\nHi, does anybody have experience using excel dashboards for performance measurement? I am looking for software or any step by step process that shows how one can make performance measurement tools. I have looked online, but nothing is really helping so far. \nThanks!\n\n", 
+  "title": "Excel Dashboard", 
+  "when": "05-05-2014"
+}

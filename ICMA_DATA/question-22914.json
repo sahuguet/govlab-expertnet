@@ -1,0 +1,21 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Roderick Wood", 
+      "score": "0", 
+      "text": "\n\nRFID is one approach. Depending on how big the project, someone would have to note where the RIFD's are placed and be sure to replace them if future work is done. You can accomplish the same information base by tagging the work boundaries and construction information on your GIS system or other land based software tools.  It also allows any maintenance or complaints related to the construction to be tagged.\n\n\nRFID is one approach. Depending on how big the project, someone would have to note where the RIFD's are placed and be sure to replace them if future work is done. You can accomplish the same information base by tagging the work boundaries and construction information on your GIS system or other land based software tools.  It also allows any maintenance or complaints related to the construction to be tagged.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "08-01-2014"
+    }
+  ], 
+  "answers_count": 1, 
+  "author": "Johnathan Kiwala", 
+  "id": 22914, 
+  "score": "1", 
+  "tags": [
+    "Public Works"
+  ], 
+  "text": "\n\nI was wondering if any municipalities have implemented RFID technology when replacing streets. For example, a utility company fills out a Right-of-Way permit and needs to dig up a roadway and replace it. Has anyone put in RFID chips into the new piece of roadway when it was poured to keep track of who constructed it? That way if there were problems with the construction down the line, you could scan the RFID chip and figure out who constructed the failing piece. \nIf anyone has implemented this technology, would you be willing to share your findings and research with me?\nThanks,\nJohnathan Kiwala\nManagement Analyst\nVillage of Kenilworth\njkiwala@kenilworthil.org\n847-251-1666\n\n", 
+  "title": "Implementing RFID Technology in Roadways", 
+  "when": "08-01-2014"
+}

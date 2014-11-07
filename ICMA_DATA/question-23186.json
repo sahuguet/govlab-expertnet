@@ -1,0 +1,41 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Paul Brown", 
+      "score": "1", 
+      "text": "\n\nI found the attached Excel Tool for prioritizing projects several years ago.  Have not actually used it in our CIP process as of yet, but you may find it helpful or something to model after.  I will see if I can post a copy of our request form in another \"answer\" it only allows me to attach 1 document here.  Each of our projects has to choose one of the City's strategic priorities to align itself with right in the request form.  Like you, we normally have more requests than money for requests, so in the last few years we have had to restrict ourselves to mainly infrastructure, life safety, or legally mandated projects.  Our committee usually consists of 2 people from Budget, 1 or 2 from IT, Engineering, and Finance, and our Assistant City Manager.  A big challenge for us is getting requesters to be thoughtful and accurate about projecting the operating budget impact of projects after completion. \nsorry, can't get the other document to upload for some reason, even in another comment box.  Feel free to email me: pbrown01@savannahga.gov and I will share it with you.\n\n\nI found the attached Excel Tool for prioritizing projects several years ago.  Have not actually used it in our CIP process as of yet, but you may find it helpful or something to model after.  I will see if I can post a copy of our request form in another \"answer\" it only allows me to attach 1 document here.  Each of our projects has to choose one of the City's strategic priorities to align itself with right in the request form.  Like you, we normally have more requests than money for requests, so in the last few years we have had to restrict ourselves to mainly infrastructure, life safety, or legally mandated projects.  Our committee usually consists of 2 people from Budget, 1 or 2 from IT, Engineering, and Finance, and our Assistant City Manager.  A big challenge for us is getting requesters to be thoughtful and accurate about projecting the operating budget impact of projects after completion. \nsorry, can't get the other document to upload for some reason, even in another comment box.  Feel free to email me: pbrown01@savannahga.gov and I will share it with you.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "17-06-2014"
+    }, 
+    {
+      "author": "Yana McConaty", 
+      "score": "0", 
+      "text": "\n\nKurt, \nWe have an analytical model for the capital project budgeting, prioritization and scoring that we can give you access to or show via the web meeting.  Please see attached a brief overview. Please let me know if you would like to review it. \nContact: yana_mcconaty@neubrain.com\n\n\nKurt, \n\nWe have an analytical model for the capital project budgeting, prioritization and scoring that we can give you access to or show via the web meeting.  Please see attached a brief overview. Please let me know if you would like to review it. \nContact: yana_mcconaty@neubrain.com\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "17-06-2014"
+    }, 
+    {
+      "author": "Yana McConaty", 
+      "score": "0", 
+      "text": "\n\nHere is the logic for the scoring embedded into the analytical model. Please note the logic could be changed, if needed.\nThe project manager enters a project budget and answers a range of questions (Q&A) tab. Questions are created/managed by the budget admin. Each Q&A has a weight assigned to it. After they are done, the scoring team that consists of multiple people, enters a score for each project. You give a project a score (1-5). Once the score is assigned, the score is re-calculated using weights, and a total (average) score is assigned based on scores from multiple team members. The next step, Scoring Worksheet managed by budget admin. It gives an ability to quickly review scored projects, edit, add or remove individual scores of certain team members (if needed). Then the budget admin can enter a threshold to approve projects with scores greater than X. The system approved these projects, calculates required funding, and compares to available funding. You can run this simulation multiple times to achieve a certain result.\n\n\nHere is the logic for the scoring embedded into the analytical model. Please note the logic could be changed, if needed.\n\nThe project manager enters a project budget and answers a range of questions (Q&A) tab. Questions are created/managed by the budget admin. Each Q&A has a weight assigned to it. After they are done, the scoring team that consists of multiple people, enters a score for each project. You give a project a score (1-5). Once the score is assigned, the score is re-calculated using weights, and a total (average) score is assigned based on scores from multiple team members. The next step, Scoring Worksheet managed by budget admin. It gives an ability to quickly review scored projects, edit, add or remove individual scores of certain team members (if needed). Then the budget admin can enter a threshold to approve projects with scores greater than X. The system approved these projects, calculates required funding, and compares to available funding. You can run this simulation multiple times to achieve a certain result.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "18-06-2014"
+    }, 
+    {
+      "author": "Stuart Easton", 
+      "score": "0", 
+      "text": "\n\nThere is a host of information and tools on project prioritization, here. \nblog.transparentchoice.com/project-prioritization\nI will caution on one point: using a spreadsheet is, in my opinion, risky. Prioritization is a HUMAN process and spreadsheets don't really support that process (unless you have a very skilled practitioner leading the process). Solutions based on more rigorous methodologies, such as AHP. These methodologies have collaboration and consensus building baked in...\n\n\nThere is a host of information and tools on project prioritization, here. \n\nblog.transparentchoice.com/project-prioritization\n\nI will caution on one point: using a spreadsheet is, in my opinion, risky. Prioritization is a HUMAN process and spreadsheets don't really support that process (unless you have a very skilled practitioner leading the process). Solutions based on more rigorous methodologies, such as AHP. These methodologies have collaboration and consensus building baked in...\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "30-06-2014"
+    }
+  ], 
+  "answers_count": 4, 
+  "author": "Kurt Lockhart", 
+  "id": 23186, 
+  "score": "0", 
+  "tags": [
+    "Priority Based Budgeting", 
+    "Process Improvement", 
+    "Finance and Budgeting"
+  ], 
+  "text": "\n\nWe are researching new ways to structure request forms, evaluative criteria, and review committees for the selection of Capital Improvement Projects. I'd love to hear about best practices for aligning capital projects with the priorities and strategic plans of your locality.  \nSince departments request more funding than is available, I am mainly looking for advice on how to choose which projects to fund. Any and all ideas would be appreciated. \nThanks!\n\n", 
+  "title": "Capital Improvement Project Selection", 
+  "when": "17-06-2014"
+}

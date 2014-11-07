@@ -1,0 +1,21 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Eric Endresen", 
+      "score": "0", 
+      "text": "\n\nThe target compromise was done via the terminals, not a hack to the system per se.  It brings up a point about security of access points as well as internet firewalls.  Access to the payroll software and database must be secured.  the software also needs to be configured correctly so employees cannot access areas they should not and only those needing access should be granted such.\n\n\nThe target compromise was done via the terminals, not a hack to the system per se.  It brings up a point about security of access points as well as internet firewalls.  Access to the payroll software and database must be secured.  the software also needs to be configured correctly so employees cannot access areas they should not and only those needing access should be granted such.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "27-01-2014"
+    }
+  ], 
+  "answers_count": 1, 
+  "author": "Michael Leavitt", 
+  "id": 22936, 
+  "score": "0", 
+  "tags": [
+    "Management"
+  ], 
+  "text": "\n\nWith the recent incident of the Target compromise we asked ourselves; how good is our external firewall and how good is our internal control? What we/I found out by asking a trusted IT employee. If you have auto deposit for payroll and you are relying on payroll software and billing software, you need verify where your personnel internal data is and the access ability to that data, NOW!  Michael Leavitt, HV TX.\n\n", 
+  "title": "How good is your Internal & External security?", 
+  "when": "23-01-2014"
+}

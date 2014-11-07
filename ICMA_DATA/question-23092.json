@@ -1,0 +1,41 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "[Unknown]", 
+      "score": "0", 
+      "text": "\n\nHi Neil, \nThank you for the very interesting question and idea. I hope other local government officials are able to chime in and provide you with first hand experience with looking into using GIS to better understand local government policy. \nI was able to find a document that discusses how GIS can be of help when looking at combined sewer systems that you may be able to get some ideas from (icma.org/Documents/Document/Document/306050). \nI hope you find this helpful and feel free to ask more questions as you work on this project. \nBest, \nRobin Saywitz\nICMA Knowlege Network Intern \nrsaywitz@icma.org\n\n\nHi Neil, \n\nThank you for the very interesting question and idea. I hope other local government officials are able to chime in and provide you with first hand experience with looking into using GIS to better understand local government policy. \n\nI was able to find a document that discusses how GIS can be of help when looking at combined sewer systems that you may be able to get some ideas from (icma.org/Documents/Document/Document/306050). \n\nI hope you find this helpful and feel free to ask more questions as you work on this project. \n\nBest, \nRobin Saywitz\nICMA Knowlege Network Intern \nrsaywitz@icma.org\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "22-04-2014"
+    }, 
+    {
+      "author": "Reed Desroches", 
+      "score": "0", 
+      "text": "\n\nHello Neil,\nI hope it is not too late for this information to be helpful. I would recommend establishing a scoring system where \"facilitators\" give a point (1 point) and \"barriers\" subtract a point (-1 point). You can then give a score to each district within the county. You would then create a \"Score\" field in the Attribute Table for the Districts shapefile and fill it in with the scores that you calculated. You could then change the Symbology in the layer's properties to display as a heat map based on the score.\nCheers,\nReed\n\n\nHello Neil,\n\nI hope it is not too late for this information to be helpful. I would recommend establishing a scoring system where \"facilitators\" give a point (1 point) and \"barriers\" subtract a point (-1 point). You can then give a score to each district within the county. You would then create a \"Score\" field in the Attribute Table for the Districts shapefile and fill it in with the scores that you calculated. You could then change the Symbology in the layer's properties to display as a heat map based on the score.\n\nCheers,\nReed\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "15-07-2014"
+    }
+  ], 
+  "answers_count": 2, 
+  "author": "Neil Bakshi", 
+  "id": 23092, 
+  "score": "0", 
+  "tags": [
+    "Infrastructure Planning", 
+    "Housing & Community Development", 
+    "Water & Sanitation", 
+    "Climate Change", 
+    "Innovation", 
+    "Environment", 
+    "Planning", 
+    "GIS", 
+    "Utilities", 
+    "Public Works", 
+    "Regionalism", 
+    "Sustainability", 
+    "Parks and Recreation", 
+    "Economic Development", 
+    "Technology"
+  ], 
+  "text": "\n\nHello all,\nI am interested in developing a way to visualize the differences between municipal ordinances in the context of a GIS map. Specifically, I would like to show which municipalities have \"barriers\" or \"facilitators\" to green infrastructure within the same county. For instance, requiring downspouts to be connected to the sewer system is a \"barrier.\" Allowing green roofs to count toward dedicated recreational space is a \"facilitator.\"\nI have thought of a few ways to do this, but I'd be delighted to hear if anyone has done it before? Would you be willing to share your map or a description of the concept?\nThe question arises from the results of this report: http://media.wix.com/ugd/7d0e16_91098018155483e1da0ebfb5873c422a.pdf\nThanks!\n--Neil\n\n", 
+  "title": "Mapping ordinances in GIS", 
+  "when": "21-04-2014"
+}

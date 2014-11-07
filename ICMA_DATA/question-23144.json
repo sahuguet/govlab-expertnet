@@ -1,0 +1,40 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Thomas Quist", 
+      "score": "1", 
+      "text": "\n\nArnoldo,\nI enjoyed your question.  My first thought is this:  Excel does not necessarily have the limitations you described.  Such processes as formatting and cleaning up data can most likely be automated using visual basic for applications (the programming tool included with MS Office).  Admittedly, the likelihood of most organizations having ready access to someone familiar with VBA is slim.  Depending upon how many different formats you are dealing with, it may be a relatively easy fix.  In fact, if you are only dealing with one or two different formats, I'd even be willing to take a stab at it for you (no guarantees!).  If it's doable, I can send you or your staff a file with the automation process baked in, so it would only require a click of the mouse to \"auto format/clean\" an exported data set.  Would you like to provide me with an unformatted data set so I can take a crack?\nSincerely,\nTom\n\n\nArnoldo,\n\nI enjoyed your question.  My first thought is this:  Excel does not necessarily have the limitations you described.  Such processes as formatting and cleaning up data can most likely be automated using visual basic for applications (the programming tool included with MS Office).  Admittedly, the likelihood of most organizations having ready access to someone familiar with VBA is slim.  Depending upon how many different formats you are dealing with, it may be a relatively easy fix.  In fact, if you are only dealing with one or two different formats, I'd even be willing to take a stab at it for you (no guarantees!).  If it's doable, I can send you or your staff a file with the automation process baked in, so it would only require a click of the mouse to \"auto format/clean\" an exported data set.  Would you like to provide me with an unformatted data set so I can take a crack?\n\nSincerely,\n\nTom\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "22-05-2014"
+    }, 
+    {
+      "author": "Kira Hasbargen", 
+      "score": "1", 
+      "text": "\n\nICMA recently announced our partnership SAS, the leading developer of performance analytics software to provide local governments with a cutting-edge performance management and analytics platform designed to meet the unique needs of city and county managers.\nOur platform offers a core set of well-defined and comparable measures enabling communities to easily collect, clean, report, benchmark, and analyze their data.\nVisit www.icma.org/performanceinsights to learn more.\n\n\nICMA recently announced our partnership SAS, the leading developer of performance analytics software to provide local governments with a cutting-edge performance management and analytics platform designed to meet the unique needs of city and county managers.\n\nOur platform offers a core set of well-defined and comparable measures enabling communities to easily collect, clean, report, benchmark, and analyze their data.\n\nVisit www.icma.org/performanceinsights to learn more.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "22-05-2014"
+    }, 
+    {
+      "author": "Paul Rottenberg", 
+      "score": "1", 
+      "text": "\n\nArnoldo, generally speaking if you have people who really understand the metrics and can use and explain them in meaningful ways for your jurisdiction, then the software issue will get resolved by them. Task them to find the right application for your agency and they'll figure it out based on a true understanding of data analysis and presentation. If you put the software first then it will have a high likelihood of becoming shelfware.\nPaul Rottenberg, MBA, MPH\n\n\nArnoldo, generally speaking if you have people who really understand the metrics and can use and explain them in meaningful ways for your jurisdiction, then the software issue will get resolved by them. Task them to find the right application for your agency and they'll figure it out based on a true understanding of data analysis and presentation. If you put the software first then it will have a high likelihood of becoming shelfware.\n\nPaul Rottenberg, MBA, MPH\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "23-05-2014"
+    }, 
+    {
+      "author": "[Unknown]", 
+      "score": "1", 
+      "text": "\n\nHi Arnoldo, \nHere is an article that discusses a variety of types of software that can be used to analyze all of the data coming into and being created by local governments. It has a chart that breaks the software down by situations and hopefully that will point you in the direction of the type of software you need.\nhttp://icma.org/en/BlogPost/1885/How_Could_Cities_and_Counties_Use_Data_Analytics\nBest, \nRobin Saywitz \nICMA Knowledge Network Intern \nrsaywitz@icma.org\n\n\nHi Arnoldo, \n\nHere is an article that discusses a variety of types of software that can be used to analyze all of the data coming into and being created by local governments. It has a chart that breaks the software down by situations and hopefully that will point you in the direction of the type of software you need.\nhttp://icma.org/en/BlogPost/1885/How_Could_Cities_and_Counties_Use_Data_Analytics\n\nBest, \nRobin Saywitz \nICMA Knowledge Network Intern \nrsaywitz@icma.org\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "23-05-2014"
+    }
+  ], 
+  "answers_count": 4, 
+  "author": "Arnoldo Perez", 
+  "id": 23144, 
+  "score": "0", 
+  "tags": [
+    "Performance Management and Analytics", 
+    "Technology"
+  ], 
+  "text": "\n\nDoes your municipality utilize any third party software to analyze extracted data sets and then express characteristics such as frequency, duration, average, mean, etc?  Excel is a good start but it has its limitations especially how much the data needs to be formatted correctly and cleaned up.  Looking for affordable examples that could be used by a few staffers.  The data can help with performance measures and process improvement studies.\nThank you,\nArnold\n\n", 
+  "title": "Data Analytic Software", 
+  "when": "22-05-2014"
+}

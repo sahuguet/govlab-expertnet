@@ -1,0 +1,30 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "[Unknown]", 
+      "score": "0", 
+      "text": "\n\nHi Richard, \nI came across an important guide on measuring that you should look over. It is called \"Workload and Deployment Analysis\" and it is available here: http://icma.org/en/icma/knowledge_network/documents/kn/Document/303913%E2%80%8E\nAloha,\nJames Davidson\nKnowledge Network Intern\n\n\nHi Richard, \n\nI came across an important guide on measuring that you should look over. It is called \"Workload and Deployment Analysis\" and it is available here: http://icma.org/en/icma/knowledge_network/documents/kn/Document/303913%E2%80%8E\n\nAloha,\nJames Davidson\nKnowledge Network Intern\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "14-01-2014"
+    }, 
+    {
+      "author": "[Unknown]", 
+      "score": "0", 
+      "text": "\n\nHi Richard, \nI'm in charge of the data analysis associated with workload and deployment data. So, we measure the average number of available officers (per hour), then we compute the average amount of work per hour. Then the proportion of work per officer gives an estimate of how busy the department might be. To determine work, we look at the total time that each unit spends handling each call (and each non-call activity). \nA longer answer is: \n1) Call activity or work is really only a good way to measure  your patrol force. This isn't your entire sworn personnel. \n2) So, you'd want to decide on which part of the force handles calls for service and determine the average number of officers on duty daily. \n3) Then, you'd want to look at dispatched calls for service and focus only on those calls that were handled by the patrol force. \nRegards, \nDov \nP.S. We recently conducted a study for Vancouver, Washington. Since you are nearby, you can probably get a copy of their report from them.\n\n\nHi Richard, \n\nI'm in charge of the data analysis associated with workload and deployment data. So, we measure the average number of available officers (per hour), then we compute the average amount of work per hour. Then the proportion of work per officer gives an estimate of how busy the department might be. To determine work, we look at the total time that each unit spends handling each call (and each non-call activity). \n\nA longer answer is: \n1) Call activity or work is really only a good way to measure  your patrol force. This isn't your entire sworn personnel. \n2) So, you'd want to decide on which part of the force handles calls for service and determine the average number of officers on duty daily. \n3) Then, you'd want to look at dispatched calls for service and focus only on those calls that were handled by the patrol force. \n\nRegards, \nDov \n\nP.S. We recently conducted a study for Vancouver, Washington. Since you are nearby, you can probably get a copy of their report from them.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "20-01-2014"
+    }
+  ], 
+  "answers_count": 2, 
+  "author": "Richard Kepler", 
+  "id": 22923, 
+  "score": "0", 
+  "tags": [
+    "Public Safety", 
+    "Finance and Budgeting", 
+    "Police", 
+    "Performance Management and Analytics"
+  ], 
+  "text": "\n\nHello All,\nWe have a number of Performance Measures that are calculated each year.  I am interested to hear from others that may have used the number of sworn staff available per Dispatched Calls for service, and if you have found that a valuable workload indicator? Was there some type of threshold calculated for this Sworn staff per Call quantity and how was that determined?\nI am attempting to see if there is a national standard or how other agencies were able to come up with this as a performance indicator.\nThank you for any assistance.\nRichard\n\n", 
+  "title": "Performance Measure", 
+  "when": "13-01-2014"
+}

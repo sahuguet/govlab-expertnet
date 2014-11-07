@@ -1,0 +1,16 @@
+{
+  "answer_by": null, 
+  "answers": [], 
+  "answers_count": 0, 
+  "author": "[Anonymous]", 
+  "id": 23220, 
+  "score": "0", 
+  "tags": [
+    "Public Safety", 
+    "Police", 
+    "Technology"
+  ], 
+  "text": "\n\nWe have been provided direction on two CJIS requirements related to technology.  I am curious if other organizations have dealt with similar issues and, if so, what did you do to ensure compliance?  Also, if our interpretation of these obligations isn't the same as yours, please share feedback there as well.  Thanks!\nSharing of Data\nThere is an encryption requirement for communications \u201cover the internet\u201d which suggests that if we share information with outside agencies it has to be done so using encrypted email, a cloud service portal who provides encryption, or an externally accessible shared site  (similar to SharePoint).  \nVoice Security\nCJIS specifically mentions VOIP as not being exempt from encryption, though it does provide for an exemption for cell.  CJIS also apparently requires VOIP to be segmented from data, as well as the encryption of voice calls.\n\n", 
+  "title": "CJIS Requirements", 
+  "when": "11-07-2014"
+}
