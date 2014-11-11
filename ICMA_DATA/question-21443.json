@@ -1,0 +1,33 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Dustin Anderson", 
+      "score": "0", 
+      "text": "\n\nhttp://icma.org/en/icma/knowledge_network/questions/question/21037\n\n\nhttp://icma.org/en/icma/knowledge_network/questions/question/21037\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "24-10-2011"
+    }, 
+    {
+      "author": "Mike Cohen", 
+      "score": "0", 
+      "text": "\n\nThe City of Ashland OR used QR codes to help promote its online public comment forums regarding pedestrian places in the city: http://www.ashland.or.us/Page.asp?NavID=13461\n\n\nThe City of Ashland OR used QR codes to help promote its online public comment forums regarding pedestrian places in the city: http://www.ashland.or.us/Page.asp?NavID=13461\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "24-10-2011"
+    }, 
+    {
+      "author": "Melissa Nell", 
+      "score": "0", 
+      "text": "\n\nWe are still ni the piloting stages of our QR codes, but there are some general best practices we use when working with the codes:\n   * Include instructions for using QR codes and how to obtain \n     a QR reader\n   * Include the website address for those who do not have \n     smart phones\n   * Make sure the web page is viewable by mobile \n   * Avoid Adobe Flash, it is not accessible on the iPhone\n   * Pages optimized for mobile are best\n   * The code should be no smaller than 1\" square\n   * Reflective surfaces makes it harder to scan, try to use \n     larger codes\n   * Link shorteners like bit.ly or goo.gl will make the code less \n     intricate and less error-prone\n   * Leave a \"quiet zone\" around the code to make scanning \n     easier\n   * Codes work best in black and white\n   * If using colors choose high contrasts between the light and \n     dark areas\n   * DO NOT invert the colors (black where there was white, \n     etc), the codes will not work\n\n\nWe are still ni the piloting stages of our QR codes, but there are some general best practices we use when working with the codes:\n   * Include instructions for using QR codes and how to obtain \n     a QR reader\n   * Include the website address for those who do not have \n     smart phones\n   * Make sure the web page is viewable by mobile \n   * Avoid Adobe Flash, it is not accessible on the iPhone\n   * Pages optimized for mobile are best\n   * The code should be no smaller than 1\" square\n   * Reflective surfaces makes it harder to scan, try to use \n     larger codes\n   * Link shorteners like bit.ly or goo.gl will make the code less \n     intricate and less error-prone\n   * Leave a \"quiet zone\" around the code to make scanning \n     easier\n   * Codes work best in black and white\n   * If using colors choose high contrasts between the light and \n     dark areas\n   * DO NOT invert the colors (black where there was white, \n     etc), the codes will not work\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "31-10-2011"
+    }
+  ], 
+  "answers_count": 3, 
+  "author": "Joseph Gilkerson", 
+  "id": 21443, 
+  "score": "0", 
+  "tags": [
+    "Citizen Engagement"
+  ], 
+  "text": "\n\nStafford County Va is exploring the use of QR Codes as another means to engage our citizens.  Any lessons learned or best practices from other local governments would be appreciated.  \nThanks in advance.\n\n", 
+  "title": "QR Codes", 
+  "when": "24-10-2011"
+}

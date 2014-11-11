@@ -1,0 +1,41 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Gregory Stopka", 
+      "score": "1", 
+      "text": "\n\nNice job.  I've actually been doing a large amount of research on comparative financial data programs I can share with you to compare to your program. \n-There was a Quarterly that focused on how to use technology to improve performance and accountability: http://transformgov.org/en/Article/100030/Leveraging_Technology_to_Improve_Performance_Value_and_Accountability_in_Government\n-Williamsburg, VA has pioneered a new system to display real-time performance data to the public:  http://transformgov.org/en/Article/101389\n/Williamsburg_VA_Pioneers_New_System_to_Display_Realtime_Performance_Data_to_the_Public\n-Albemarle County has a similar program:  http://transformgov.org/en/Article/100923/Albemarle_County_VA_Debuts_Performance_Management_Website_for_Increased_Transparency_and_Accountabil\n-Rock Hill, SC has a program that has promoted transparency and accountability:  http://transformgov.org/en/Article/100487/CASE_STUDY_Rock_Hill_SC_Launches_3Part_Web_Based_System_for_Accountability_and_Transparency\n-The City of Charlottesville uses Clear Point Strategy to publish their scorecards online:  https://www.clearpointstrategy.com/promo/learn-more/index.cfm?page=5\n-Miami-Dade County, FL uses ActiveStrategy, Inc. software:  http://www.activestrategy.com/index.aspx\nLet me know if this is helpful.\nThanks,\n-Greg\n\n\nNice job.  I've actually been doing a large amount of research on comparative financial data programs I can share with you to compare to your program. \n\n-There was a Quarterly that focused on how to use technology to improve performance and accountability: http://transformgov.org/en/Article/100030/Leveraging_Technology_to_Improve_Performance_Value_and_Accountability_in_Government\n\n-Williamsburg, VA has pioneered a new system to display real-time performance data to the public:  http://transformgov.org/en/Article/101389\n/Williamsburg_VA_Pioneers_New_System_to_Display_Realtime_Performance_Data_to_the_Public\n\n-Albemarle County has a similar program:  http://transformgov.org/en/Article/100923/Albemarle_County_VA_Debuts_Performance_Management_Website_for_Increased_Transparency_and_Accountabil\n\n-Rock Hill, SC has a program that has promoted transparency and accountability:  http://transformgov.org/en/Article/100487/CASE_STUDY_Rock_Hill_SC_Launches_3Part_Web_Based_System_for_Accountability_and_Transparency\n\n-The City of Charlottesville uses Clear Point Strategy to publish their scorecards online:  https://www.clearpointstrategy.com/promo/learn-more/index.cfm?page=5\n\n-Miami-Dade County, FL uses ActiveStrategy, Inc. software:  http://www.activestrategy.com/index.aspx\n\nLet me know if this is helpful.\n\nThanks,\n\n-Greg\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "31-08-2011"
+    }, 
+    {
+      "author": "Meredith Roark", 
+      "score": "1", 
+      "text": "\n\nLooks good, Tom. How long did it take you to build out?\n\n\nLooks good, Tom. How long did it take you to build out?\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "06-09-2011"
+    }, 
+    {
+      "author": "Matthew Vanderhorst", 
+      "score": "1", 
+      "text": "\n\nI love what you have created.  We've wanted to create a dashboard for a long time but our budget didn't allow for the purchase of an off-the-shelf program and we couldn't find a good example of an Execel performance measurement dashboard.  The only thing I would suggest is a little more color for the charts instead of shades of gray.   Thank you for sharing this gem!\n\n\nI love what you have created.  We've wanted to create a dashboard for a long time but our budget didn't allow for the purchase of an off-the-shelf program and we couldn't find a good example of an Execel performance measurement dashboard.  The only thing I would suggest is a little more color for the charts instead of shades of gray.   Thank you for sharing this gem!\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "06-09-2011"
+    }, 
+    {
+      "author": "[Unknown]", 
+      "score": "0", 
+      "text": "\n\nHi all,\nCPM is planning to have Tom host a webinar on the mechanics of his dashboard on December 1 at 1:00 PM Eastern.  If your jurisdiction is a CPM participant, be looking for the registration link in the next Performance Measurement Insider newsletter, due to land in your inbox next week!  Don't hesitate to contact me with questions at lwinstead@icma.org.\n\n\nHi all,\n\nCPM is planning to have Tom host a webinar on the mechanics of his dashboard on December 1 at 1:00 PM Eastern.  If your jurisdiction is a CPM participant, be looking for the registration link in the next Performance Measurement Insider newsletter, due to land in your inbox next week!  Don't hesitate to contact me with questions at lwinstead@icma.org.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "25-10-2011"
+    }
+  ], 
+  "answers_count": 4, 
+  "author": "Thomas Quist", 
+  "id": 21319, 
+  "score": "0", 
+  "tags": [
+    "Innovation", 
+    "Management", 
+    "Performance Management and Analytics"
+  ], 
+  "text": "\n\nThe City of Cartersville recently launched a new Performance Dashboard to help track, analyze, and communicate performance data.  I would love to hear your thoughts on the new dashboard.\nA couple of notes:\nThe dashboard is built in Excel which allows it to be easily distributed as most people have Excel.  Unfortunately, it has only been tested in 2007 and 2010, and it would likely fail in prior versions of Excel.\nThe dashboard relies heavily on visual basic (\"macros\") so it is important to enable macros when you open the file.\nYou will want to read the Introduction page for a few tips on how to use the dashboard and interpret the charts.  I realize that there is a lot to be desired on my intro page, and I plan to beef that up a bit in the future.\nNote that you can click on the \"sparkline\" charts for a blown up, detailed view of the measures with some additional information provided.  Click anywhere on the screen (within Excel) to hide the detail and get back to the dashboard.  I haven't yet completed all of the measure descriptions, so you'll see a lot of placeholders throughout the detail views.\nSeveral of our measures have only been tracked since July, so there is no historical data - this should be fairly obvious.  The fiscal year to date charts (\"bullet charts\") include only one month of data at this time as the fiscal year began in July.\nIt is brand new and it's fairly complex, so I do expect a few bugs to emerge as it makes its way across various user's computers.  \nPlease be honest in your feedback - my feelings won't be hurt.  I'd like to improve this as much as possible.  Keep in mind that the target audience is department heads, the city manager, supervisors, city council members, and the general public will have access as well.  I realize that the general public might find this a bit overwhelming, so I may be creating an alternate version in the future.  As for the others, I plan to offer some basic training on how to read and use the dashboard.\nThanks, and I look forward to your responses.\nSincerely,\nTom Quist\nAssistant to the City Manager\nCity of Cartersville, GA\nP.S. I'm always happy to discuss this type of thing over the phone, so if you are interested in calling, please feel free to do so.  I can be reached at (770)607-2111, or via email at tquist@cityofcartersville.org.\n\n", 
+  "title": "Performance Dashboard", 
+  "when": "31-08-2011"
+}

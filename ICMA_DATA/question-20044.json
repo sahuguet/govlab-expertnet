@@ -1,0 +1,39 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "David Collinsworth", 
+      "score": "0", 
+      "text": "\n\nJames - the City of Westerville, Ohio utilizes a five-year financial planning document that serves as our budget document.  While we only appropriate for one fiscal year at a time, we have a projection of revenues and expenses that run out four more years.  If you are interested in more detailed information, let me know and I'll post some doc's for you.\nDave Collinsworth\nCity Manager\n\n\nJames - the City of Westerville, Ohio utilizes a five-year financial planning document that serves as our budget document.  While we only appropriate for one fiscal year at a time, we have a projection of revenues and expenses that run out four more years.  If you are interested in more detailed information, let me know and I'll post some doc's for you.\n\nDave Collinsworth\nCity Manager\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "03-06-2010"
+    }, 
+    {
+      "author": "Michael Repas", 
+      "score": "0", 
+      "text": "\n\nHi James:\nI found a spreadsheet for a 1-year projection and therefore will give you a good start on modifying them for use in your local government, as desired.  You can make it into as many years as you need by adding sheets to your spreadsheet, or by simply making it bigger within the same sheet.  It is uploaded to the Knowledge Network Library, and available here:\nhttp://icma.org/en/icma/knowledge_network/documents/kn/Document/301291/Sample_Local_Government_Finanical_Projection_Spreadsheet \nHopefully this is a good start for you!\n\n\nHi James:\n\nI found a spreadsheet for a 1-year projection and therefore will give you a good start on modifying them for use in your local government, as desired.  You can make it into as many years as you need by adding sheets to your spreadsheet, or by simply making it bigger within the same sheet.  It is uploaded to the Knowledge Network Library, and available here:\n\nhttp://icma.org/en/icma/knowledge_network/documents/kn/Document/301291/Sample_Local_Government_Finanical_Projection_Spreadsheet \n\nHopefully this is a good start for you!\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "03-06-2010"
+    }, 
+    {
+      "author": "Brian Wolverton", 
+      "score": "0", 
+      "text": "\n\nI've attached an example of what I use to do projections.  In terms of methodology, I treat each line item individually.  For payroll items, I have a worksheet that projects person by person, pay period by pay period.  If that's too onerous, you can just calculate an aggregate number and do your best to factor in longevity, stipends, etc... there are very few items I do linear projections for, because there are so few expenses that are linear.  I just meet with departments eithe rmonthly or quarterly and go through each line item with them to ask them when they think big expenses will take place, and how things like utilities and repairs are shaking out, and build projections off of what I get from those meetings.  It's far more accurate than just trying to apply a formula.  This format could be stretched out for multiple years easily enough, though multi-year expense forecasting is somewhat futile when the council makes big cuts every year.\nI also attached a multi-year projection worksheet we use for our Water & Sewer enterprise fund.  It ties in a lot of variables, including projected consumption, our rate increase plan, desired reserve levels, future projects, etc.  This one is very complex but more algorhythmic and perhaps more of what you're looking for.\nHope this helps!\n\n\nI've attached an example of what I use to do projections.  In terms of methodology, I treat each line item individually.  For payroll items, I have a worksheet that projects person by person, pay period by pay period.  If that's too onerous, you can just calculate an aggregate number and do your best to factor in longevity, stipends, etc... there are very few items I do linear projections for, because there are so few expenses that are linear.  I just meet with departments eithe rmonthly or quarterly and go through each line item with them to ask them when they think big expenses will take place, and how things like utilities and repairs are shaking out, and build projections off of what I get from those meetings.  It's far more accurate than just trying to apply a formula.  This format could be stretched out for multiple years easily enough, though multi-year expense forecasting is somewhat futile when the council makes big cuts every year.\n\nI also attached a multi-year projection worksheet we use for our Water & Sewer enterprise fund.  It ties in a lot of variables, including projected consumption, our rate increase plan, desired reserve levels, future projects, etc.  This one is very complex but more algorhythmic and perhaps more of what you're looking for.\n\nHope this helps!\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "04-06-2010"
+    }, 
+    {
+      "author": "Brian Wolverton", 
+      "score": "0", 
+      "text": "\n\n(here's the second attachment)\n\n\n(here's the second attachment)\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "04-06-2010"
+    }
+  ], 
+  "answers_count": 4, 
+  "author": "James Nantell", 
+  "id": 20044, 
+  "score": "0", 
+  "tags": [
+    "Finance and Budgeting"
+  ], 
+  "text": "\n\nDoes anyone have an excel template (or other software) that you use to project revenues and expenses over a three to five year period of time.\n\n", 
+  "title": "Multi Year Financial Projections", 
+  "when": "28-05-2010"
+}

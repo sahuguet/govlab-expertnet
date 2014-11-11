@@ -1,0 +1,53 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Robby Criswell", 
+      "score": "0", 
+      "text": "\n\nA couple of years ago we used OpenOffice on a few computers for about a year.  It worked well for employees that didn't need any of the advanced features.  Eventually, we ended up purchasing additional licenses to install MS Office as OpenOffice didn't support the security we were using to lock some excel spreadsheets.\nI think in our situation, it didn't work because we had a mixed environment.  If you would be willing to switch everyone to OpenOffice, I think you would have more success.  Just make sure that your power users are still able to do everything that they can currently do in MS Office.  Sorry I don't have a better answer for you, but maybe someone else does.\nPS - The newer version of OpenOffice may work better now, but since we already purchased the MS Office licenses, we don't have a need to test it.\n\n\nA couple of years ago we used OpenOffice on a few computers for about a year.  It worked well for employees that didn't need any of the advanced features.  Eventually, we ended up purchasing additional licenses to install MS Office as OpenOffice didn't support the security we were using to lock some excel spreadsheets.\n\nI think in our situation, it didn't work because we had a mixed environment.  If you would be willing to switch everyone to OpenOffice, I think you would have more success.  Just make sure that your power users are still able to do everything that they can currently do in MS Office.  Sorry I don't have a better answer for you, but maybe someone else does.\n\nPS - The newer version of OpenOffice may work better now, but since we already purchased the MS Office licenses, we don't have a need to test it.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "22-03-2011"
+    }, 
+    {
+      "author": "Chris Gebhardt", 
+      "score": "0", 
+      "text": "\n\nIn building a new Police Department of 40 members, I tried to implement OpenOffice.  It was deployed to all users as a cost savings method.  The software worked fine.  What didn't work was our lack of training; none of the users were given training on OO over MS Office.  Had we done that, it may have succeeded.  Definitely TRAIN on the software you are implementing.\n\n\nIn building a new Police Department of 40 members, I tried to implement OpenOffice.  It was deployed to all users as a cost savings method.  The software worked fine.  What didn't work was our lack of training; none of the users were given training on OO over MS Office.  Had we done that, it may have succeeded.  Definitely TRAIN on the software you are implementing.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "22-03-2011"
+    }, 
+    {
+      "author": "John Garvison", 
+      "score": "0", 
+      "text": "\n\nAt the Clackamas County Soil & Water Conservation District, we just converted our emails to the google environment, and we are attempting to move staff to utilize the Google Docs environment. The Google environment works just like the MS Office environment, but we are facing tremendous blowback from staff on not changing completely because they are uncomfortable with change.\nMy suggestion would be echoing Chris's, training is key, get lots of buy-off from the early innovators prior to rolling it out. We did not do that and we are suffering for it right now.\n\n\nAt the Clackamas County Soil & Water Conservation District, we just converted our emails to the google environment, and we are attempting to move staff to utilize the Google Docs environment. The Google environment works just like the MS Office environment, but we are facing tremendous blowback from staff on not changing completely because they are uncomfortable with change.\n\nMy suggestion would be echoing Chris's, training is key, get lots of buy-off from the early innovators prior to rolling it out. We did not do that and we are suffering for it right now.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "22-03-2011"
+    }, 
+    {
+      "author": "Alex Brown", 
+      "score": "0", 
+      "text": "\n\nAna:\nICMA staff produced a report on the use of open source software in local government not too long ago. I've attached it to this reply.\n\n\nAna:\n\nICMA staff produced a report on the use of open source software in local government not too long ago. I've attached it to this reply.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "22-03-2011"
+    }, 
+    {
+      "author": "Mark Pfaffinger", 
+      "score": "0", 
+      "text": "\n\nLarimer County has migrated all employees to Google Apps for Government.  We currently have Microsoft Office licenses for all computers but have dropped maintenance.  Over the next few years we plan to move over 50% of employees to using the Google Apps products so we can drop future upgrades to Office.  The Google Apps suite is included in our email/calendar product and provides very good collaborative document production.\n\n\nLarimer County has migrated all employees to Google Apps for Government.  We currently have Microsoft Office licenses for all computers but have dropped maintenance.  Over the next few years we plan to move over 50% of employees to using the Google Apps products so we can drop future upgrades to Office.  The Google Apps suite is included in our email/calendar product and provides very good collaborative document production.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "04-04-2011"
+    }, 
+    {
+      "author": "Dave Overfelt", 
+      "score": "0", 
+      "text": "\n\nOpenOffice is great and you may also consider Libre Office.  You don't necessarily have to go all the way away from Microsoft products because OpenOffice can use any Office file.  Unfortunately, Microsoft Publisher makes everything they do proprietary so NO other program can use those files.  As for password protection, you can set passwords on OpenOffice documents when you save the file.  Once again unfortunately, Microsoft makes the software they use to password protect files proprietary so if a file has been protected while a Microsoft document, NO other software will be able to utilize that file.  Honestly, if you need security it is better and more effective on your server than on individual files.  If you have to share files outside of your network, just make them into pdf's!\n\n\nOpenOffice is great and you may also consider Libre Office.  You don't necessarily have to go all the way away from Microsoft products because OpenOffice can use any Office file.  Unfortunately, Microsoft Publisher makes everything they do proprietary so NO other program can use those files.  As for password protection, you can set passwords on OpenOffice documents when you save the file.  Once again unfortunately, Microsoft makes the software they use to password protect files proprietary so if a file has been protected while a Microsoft document, NO other software will be able to utilize that file.  Honestly, if you need security it is better and more effective on your server than on individual files.  If you have to share files outside of your network, just make them into pdf's!\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "06-04-2011"
+    }
+  ], 
+  "answers_count": 6, 
+  "author": "Ana Bradshaw", 
+  "id": 20896, 
+  "score": "0", 
+  "tags": [
+    "Innovation", 
+    "Finance and Budgeting", 
+    "Technology"
+  ], 
+  "text": "\n\nThe City of San Antonio is exploring options to reduce IT costs. One idea is to reduce the cost of software licenses such as MS Office.\nHave any other cities begun to use free open-source software such as Google Docs or Open Office as an alternative to MS Office?\n\n", 
+  "title": "Open-source software", 
+  "when": "22-03-2011"
+}

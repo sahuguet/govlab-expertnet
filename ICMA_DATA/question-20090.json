@@ -1,0 +1,33 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Maxwell Moline", 
+      "score": "0", 
+      "text": "\n\nPamela/John:\nAs far as water goes, there is a manual from the American Water Works Association that can help you with that: http://apps.awwa.org/EbusMain/Default.aspx?TabId=55&ProductId=6725\nThe industry standard for a good amount of losses is anywhere under 10%.\nVirginia Beach, VA has a metered system for their water--any water that is lost from pipe leaks, etc. is measured byunderground meters, and they sum up all of those meter measurements and compare them to the master meter, which measures the bulk flow to the distribution system. They also have calculated that the flushing program, tank draining and filling, and fire fighting account for 2-3% of unaccounted for water. To keep the rest at a minimum, they repair pipes as soon as they can and take other measures. \nSedgwick County, KS has temperature sensors installed to measure fuel expansion and contraction, which provide inventory reports with the actual fuel volume. This way, they do not have to pay for more fuel than they receive. \nI hope that helps!\n\n\nPamela/John:\nAs far as water goes, there is a manual from the American Water Works Association that can help you with that: http://apps.awwa.org/EbusMain/Default.aspx?TabId=55&ProductId=6725\nThe industry standard for a good amount of losses is anywhere under 10%.\nVirginia Beach, VA has a metered system for their water--any water that is lost from pipe leaks, etc. is measured byunderground meters, and they sum up all of those meter measurements and compare them to the master meter, which measures the bulk flow to the distribution system. They also have calculated that the flushing program, tank draining and filling, and fire fighting account for 2-3% of unaccounted for water. To keep the rest at a minimum, they repair pipes as soon as they can and take other measures. \nSedgwick County, KS has temperature sensors installed to measure fuel expansion and contraction, which provide inventory reports with the actual fuel volume. This way, they do not have to pay for more fuel than they receive. \nI hope that helps!\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "17-06-2010"
+    }, 
+    {
+      "author": "Kenneth Decker", 
+      "score": "0", 
+      "text": "\n\nMax is right.  10 pecent is \"industry standard\" on water--the difference between water pumped and water billed.   We run between three and five percent here.\n\n\nMax is right.  10 pecent is \"industry standard\" on water--the difference between water pumped and water billed.   We run between three and five percent here.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "18-06-2010"
+    }, 
+    {
+      "author": "Charles Warrington", 
+      "score": "0", 
+      "text": "\n\nThe generally accepted standard on natural gas is >0.5%.  Clearwater Gas System (FL) generally runs in the range of 0.1 - 0.2%.\n\n\nThe generally accepted standard on natural gas is >0.5%.  Clearwater Gas System (FL) generally runs in the range of 0.1 - 0.2%.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "06-08-2010"
+    }
+  ], 
+  "answers_count": 3, 
+  "author": "Pamela Muse", 
+  "id": 20090, 
+  "score": "0", 
+  "tags": [
+    "Utilities"
+  ], 
+  "text": "\n\nThe City of Mesa, AZ  is looking for Utility related metrics regarding lost and unaccounted for gas and water.  Any information you can provide is appreciated\nJohn Dietel\nManagement Performance and Accountability Advisor\nCity of Mesa, Arizona\nJohn.Dietel@MesaAZ.gov\n480-644-4739\n\n", 
+  "title": "Utility Metrics - Unaccounted Gas & Water", 
+  "when": "10-06-2010"
+}

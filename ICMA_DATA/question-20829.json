@@ -1,0 +1,44 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "[Unknown]", 
+      "score": "0", 
+      "text": "\n\nWe are using Sharepoint here in Safford with some success. We started with 2007 but are about half way through upgrading to 2010. I highly recommend 2010 as it brings a lot more to the table than 07. \nWe are using it in these areas:\n1. Document management\n2. Workflow\n3. Task assignment (a subset of project management)\n4. General communication\nIn the next 6 to 12 months we are going to roll out:\n1. Wikis (internal and external)\n2. Timesheets\n3. External website to share documents with public\nWe have found that a good developer is absolutely a must. Our IT guy that has done a great job at ramping up and only having 1 class but the trade off has been a longer development cycle.\nIn addition i would also recommend looking at some 3rd party add ons such as Agilepoint. We have commited to that yet but it is on our wish list.\nBest of luck!\n\n\nWe are using Sharepoint here in Safford with some success. We started with 2007 but are about half way through upgrading to 2010. I highly recommend 2010 as it brings a lot more to the table than 07. \nWe are using it in these areas:\n1. Document management\n2. Workflow\n3. Task assignment (a subset of project management)\n4. General communication\nIn the next 6 to 12 months we are going to roll out:\n1. Wikis (internal and external)\n2. Timesheets\n3. External website to share documents with public\n\nWe have found that a good developer is absolutely a must. Our IT guy that has done a great job at ramping up and only having 1 class but the trade off has been a longer development cycle.\nIn addition i would also recommend looking at some 3rd party add ons such as Agilepoint. We have commited to that yet but it is on our wish list.\nBest of luck!\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "25-02-2011"
+    }, 
+    {
+      "author": "Dustin Anderson", 
+      "score": "0", 
+      "text": "\n\nMy current local government does not utilize sharepoint, but I have worked in an office environment that has. \nIf you have management (and perhaps more importantly, administrative) buy-in, it is an amazing tool. There were some growning pains during the implementation. But when it is functional - it's a beautiful thing.\n\n\nMy current local government does not utilize sharepoint, but I have worked in an office environment that has. \n\nIf you have management (and perhaps more importantly, administrative) buy-in, it is an amazing tool. There were some growning pains during the implementation. But when it is functional - it's a beautiful thing.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "25-02-2011"
+    }, 
+    {
+      "author": "Klaus Daehne", 
+      "score": "0", 
+      "text": "\n\nCity of Sunnyvale deployed Windows SharePoint Services 3 (WSS3) as part of Search Server Express for our intranet in late 2009. We have one web app for each department, one for projects, and one for the entire City, where we pull information from the departmant sites. Each department has an \"external\" site that is viewable by all departments and editable by department staff, and one or more \"internal\" sites that are only accessible by the owning department.\nWe use SharePoint for work flows (we are currently piloting an RTC work flow), projects, information sharing (interdepartmental and between departments), issue management (as part of application development, such as bugs, feature requests, test cases etc), and some \"light\" applications development. Most of our customizations are using out of the box capabilities, occasionally using SharePoint Designer.\nWe are planning to upgrade to SharePoint Standard 2010 in a few months.\n\n\nCity of Sunnyvale deployed Windows SharePoint Services 3 (WSS3) as part of Search Server Express for our intranet in late 2009. We have one web app for each department, one for projects, and one for the entire City, where we pull information from the departmant sites. Each department has an \"external\" site that is viewable by all departments and editable by department staff, and one or more \"internal\" sites that are only accessible by the owning department.\n\nWe use SharePoint for work flows (we are currently piloting an RTC work flow), projects, information sharing (interdepartmental and between departments), issue management (as part of application development, such as bugs, feature requests, test cases etc), and some \"light\" applications development. Most of our customizations are using out of the box capabilities, occasionally using SharePoint Designer.\n\nWe are planning to upgrade to SharePoint Standard 2010 in a few months.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "01-03-2011"
+    }, 
+    {
+      "author": "Roger Dunlap", 
+      "score": "0", 
+      "text": "\n\nBorough of State College has been experimenting with Sharepoint functionality for about 3 years.  We do not have an official strategy or plan for deploying, but we have been encouraging users to become more familar and comfortable with using Sharepoint to collaborate and manage projects and processes.  The 2 primary uses of Sharepoint at this particular time are (1) developing the Capital Improvement Plan, and (2) developing the Annual Budget.\nI anticipate our usage to increase once a formal strategy is developed in conjunction with a current ERP project.\n\n\nBorough of State College has been experimenting with Sharepoint functionality for about 3 years.  We do not have an official strategy or plan for deploying, but we have been encouraging users to become more familar and comfortable with using Sharepoint to collaborate and manage projects and processes.  The 2 primary uses of Sharepoint at this particular time are (1) developing the Capital Improvement Plan, and (2) developing the Annual Budget.\n\nI anticipate our usage to increase once a formal strategy is developed in conjunction with a current ERP project.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "10-03-2011"
+    }
+  ], 
+  "answers_count": 4, 
+  "author": "Trevor Henry", 
+  "id": 20829, 
+  "score": "0", 
+  "tags": [
+    "Infrastructure Planning", 
+    "Leadership", 
+    "Finance and Budgeting", 
+    "Technology", 
+    "Process Improvement", 
+    "Transportation"
+  ], 
+  "text": "\n\nAlbemarle County, VA is seeking benchmark information on how SharePoint has been deployed and in use in other local Governments.   Any feedback is great, we\u2019re specifically looking for responses on version being utilized (i.e. 2007 vs. 2010), its typical use (project management, workflow, surveys, general communication, etc) and the positives and negatives the organization has realized.  Thanks!\n\n", 
+  "title": "Sharepoint Use", 
+  "when": "25-02-2011"
+}

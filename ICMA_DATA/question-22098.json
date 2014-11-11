@@ -1,0 +1,28 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Robert Woods", 
+      "score": "1", 
+      "text": "\n\nWe have used MINITAB (fairly cheap), but you can do just fine  with EXCEL. In general, the pricier the program the cooler the charts can look.  In EXCEL turn on the Analysis package:\n1.Click the Microsoft Office Button , and then click Excel Options.\n2.Click Add-ins, and then in the Manage box, select Excel Add-ins.\n3.Click Go.\n4.In the Add-Ins available box, select the Analysis ToolPak check box, and then click OK.\nTip    If Analysis ToolPak is not listed in the Add-Ins available box, click Browse to locate it.\nIf you are prompted that the Analysis ToolPak is not currently installed on your computer, click Yes to install it.\n\n\nWe have used MINITAB (fairly cheap), but you can do just fine  with EXCEL. In general, the pricier the program the cooler the charts can look.  In EXCEL turn on the Analysis package:\n\n1.Click the Microsoft Office Button , and then click Excel Options.\n2.Click Add-ins, and then in the Manage box, select Excel Add-ins.\n3.Click Go.\n4.In the Add-Ins available box, select the Analysis ToolPak check box, and then click OK.\nTip    If Analysis ToolPak is not listed in the Add-Ins available box, click Browse to locate it.\n\nIf you are prompted that the Analysis ToolPak is not currently installed on your computer, click Yes to install it.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "16-08-2012"
+    }, 
+    {
+      "author": "Timothy McLean", 
+      "score": "0", 
+      "text": "\n\nHave you looked into SPSS at all? For general statistical analysis it's a pretty good program.\n\n\nHave you looked into SPSS at all? For general statistical analysis it's a pretty good program.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "22-08-2012"
+    }
+  ], 
+  "answers_count": 2, 
+  "author": "Kathryn Gudmunson", 
+  "id": 22098, 
+  "score": "0", 
+  "tags": [
+    "Technology", 
+    "Performance Management and Analytics"
+  ], 
+  "text": "\n\nI was just wondering what sort of statistical software people use (if any) for performance audits.  We don't have extremely large data sets, and no one is particularly skilled with statistics, but I think being able to analyze data effectively would strengthen our reports.  Thanks!\n\n", 
+  "title": "Statistical software for performance audits?", 
+  "when": "16-08-2012"
+}

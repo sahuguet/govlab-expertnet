@@ -1,0 +1,38 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Victoria Runkle", 
+      "score": "0", 
+      "text": "\n\nWe, like the vast majority of others thus far, host our GIS on our own servers.  However, the concept of \"cloud\" hosting is beginning to gain some momentum in the GIS arena and could be an attractive alternative.  This approach could be more cost effective, particularly for smaller agencies that may lack the expertise, time, money  and/or personnel for maintaining in-house GIS servers.  While not yet released, I believe ESRI is working on hosting ArcGIS Server on the Amazon cloud in the near future.  ESRI also currently provides cloud-based GIS resources with ArcGIS Online.  The following link may be a starting point for finding additional information:\nhttp://www.esri.com/news/arcnews/spring10articles/arcgis-in-the-cloud.html\n\n\nWe, like the vast majority of others thus far, host our GIS on our own servers.  However, the concept of \"cloud\" hosting is beginning to gain some momentum in the GIS arena and could be an attractive alternative.  This approach could be more cost effective, particularly for smaller agencies that may lack the expertise, time, money  and/or personnel for maintaining in-house GIS servers.  While not yet released, I believe ESRI is working on hosting ArcGIS Server on the Amazon cloud in the near future.  ESRI also currently provides cloud-based GIS resources with ArcGIS Online.  The following link may be a starting point for finding additional information:\nhttp://www.esri.com/news/arcnews/spring10articles/arcgis-in-the-cloud.html\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "01-04-2011"
+    }, 
+    {
+      "author": "Sam Hottinger", 
+      "score": "0", 
+      "text": "\n\nWe currently host our GIS data in house. This gives us more flexibility and control of the data. We currently have two Arcsde servers. One is in our IT departments Server room and the other is housed in our ECC. The ECC administrator had concerns about the reliability of a connection to an outside server. We replicate the data to the ECC on a weekly basis. Since we are an ELA Community with ESRI, the software costs are minimal and we may add new servers in the future for other departments that have special security needs. At this time, I don\u2019t believe we will move our data to outside contractors. However, with new technology advances, I wouldn't rule out moving our data to the cloud sometime in the future.\n\n\nWe currently host our GIS data in house. This gives us more flexibility and control of the data. We currently have two Arcsde servers. One is in our IT departments Server room and the other is housed in our ECC. The ECC administrator had concerns about the reliability of a connection to an outside server. We replicate the data to the ECC on a weekly basis. Since we are an ELA Community with ESRI, the software costs are minimal and we may add new servers in the future for other departments that have special security needs. At this time, I don\u2019t believe we will move our data to outside contractors. However, with new technology advances, I wouldn't rule out moving our data to the cloud sometime in the future.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "05-04-2011"
+    }, 
+    {
+      "author": "Paul Rottenberg", 
+      "score": "0", 
+      "text": "\n\nI provide GIS-related services for local government and myself use a third party for hosting. There are a number of firms that specialize in hosting GIS services. The one I use is in California and is very good with both the open source and ESRI applications. The people in my organization who truly understand this stuff all give these guys two thumbs up and tell me that the cost and aggravation saved by using them in lieu of going to back to running our own is absolutely extraordinary. While I have not tracked the costs very closely, my anecdotal sense is that everything is better with the third party: up time, cost, security, updates, DBA, and the occasional call or email from them with a suggestion or reminder. If anyone wants their name, I would happy to provide it.\n\n\nI provide GIS-related services for local government and myself use a third party for hosting. There are a number of firms that specialize in hosting GIS services. The one I use is in California and is very good with both the open source and ESRI applications. The people in my organization who truly understand this stuff all give these guys two thumbs up and tell me that the cost and aggravation saved by using them in lieu of going to back to running our own is absolutely extraordinary. While I have not tracked the costs very closely, my anecdotal sense is that everything is better with the third party: up time, cost, security, updates, DBA, and the occasional call or email from them with a suggestion or reminder. If anyone wants their name, I would happy to provide it.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "05-04-2011"
+    }
+  ], 
+  "answers_count": 3, 
+  "author": "Jason Oberle", 
+  "id": 20928, 
+  "score": "0", 
+  "tags": [
+    "Hiring", 
+    "Innovation", 
+    "GIS", 
+    "Finance and Budgeting", 
+    "Technology", 
+    "Management"
+  ], 
+  "text": "\n\nI am interested in hearing from Counties and Cities about who hosts the Geographic Information System (GIS).  Is it hosted on municipal servers (in-house) or on private contractors (out-of-house) servers?  Has anyone switched from in-house to out-of-house or vice versa?  Will you share your preference, good stories from transition, or bad stories related to transition. \nI need this information as soon as possible.\nYou can respond here or to\nJason Oberle, County Administrator\n812-349-2550\nOr\njoberle@co.monroe.in.us\n\n", 
+  "title": "GIS Website Hosting", 
+  "when": "30-03-2011"
+}

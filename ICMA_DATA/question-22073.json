@@ -1,0 +1,39 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Cory Fleming", 
+      "score": "1", 
+      "text": "\n\nI'm not aware of any open source CRM application available at this time.  Several local govts. here in the US, however, have developed their own in-house application and I'd be happy to put you in touch with a couple of those communities to see how they went about developing their solution.\nThe number of call agents needed depends on a number of factors including (1) how quickly you want agents to answer the phone, (2) what the call center's hours of operation will be, (3) whether you opt to have an Interactive Voice Response (IVR) system to help answer frequently asked questions (FAQs), (4) what type of service requests you decide to take and how long it takes agents to process those requests, and (5) what volume of calls the government is currently receiving and what the expected volume will be once the new system is introduced.  It's only after you've determined what kind of service you want to provide that you can begin to make some of these other decisions.\nAnd finally, regional 311 systems are exceedingly rare.  There are a number of city-county systems in the U.S. and a few county systems that answer many questions about the services of the municipalities within their boundaries, but I'm not aware of a system whereby several municipalities share costs to provide 311 service to their citizens.\n\n\nI'm not aware of any open source CRM application available at this time.  Several local govts. here in the US, however, have developed their own in-house application and I'd be happy to put you in touch with a couple of those communities to see how they went about developing their solution.\n\nThe number of call agents needed depends on a number of factors including (1) how quickly you want agents to answer the phone, (2) what the call center's hours of operation will be, (3) whether you opt to have an Interactive Voice Response (IVR) system to help answer frequently asked questions (FAQs), (4) what type of service requests you decide to take and how long it takes agents to process those requests, and (5) what volume of calls the government is currently receiving and what the expected volume will be once the new system is introduced.  It's only after you've determined what kind of service you want to provide that you can begin to make some of these other decisions.\n\nAnd finally, regional 311 systems are exceedingly rare.  There are a number of city-county systems in the U.S. and a few county systems that answer many questions about the services of the municipalities within their boundaries, but I'm not aware of a system whereby several municipalities share costs to provide 311 service to their citizens.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "08-08-2012"
+    }, 
+    {
+      "author": "Cory Fleming", 
+      "score": "0", 
+      "text": "\n\nI'm not familiar with the systems in Costa Rica to know if the phone companies there  can designate a particular number for a centralized call  center -- for example, Canadian cities use 311 and English cities have 101 for this purpose.  Beyond the actual phone number, however, I think any local government can adopt the practices of a centralized customer service system (aka, a 311 service) if its desire to do so is strong enough.  It's a matter of documenting local government business practices and integrating those processes with the technology that gives call agents the access to the knowledge needed to respond to citizen calls for information and requests for service.\n\n\nI'm not familiar with the systems in Costa Rica to know if the phone companies there  can designate a particular number for a centralized call  center -- for example, Canadian cities use 311 and English cities have 101 for this purpose.  Beyond the actual phone number, however, I think any local government can adopt the practices of a centralized customer service system (aka, a 311 service) if its desire to do so is strong enough.  It's a matter of documenting local government business practices and integrating those processes with the technology that gives call agents the access to the knowledge needed to respond to citizen calls for information and requests for service.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "07-08-2012"
+    }, 
+    {
+      "author": "Hector Paniagua", 
+      "score": "0", 
+      "text": "\n\nDear Cory,  thank you for your response, in Costa Rica we have only the 911 system, yet, I am building the case for the 311 for a centralized call center, we started by documenting local goverment business practices as a pilot project, we need some guidance regarding technology, Is there any open source CRM that we may test, as well, how many call agents are need per- hab, are there experience where a call center gives the service to several municipalities.\n\n\nDear Cory,  thank you for your response, in Costa Rica we have only the 911 system, yet, I am building the case for the 311 for a centralized call center, we started by documenting local goverment business practices as a pilot project, we need some guidance regarding technology, Is there any open source CRM that we may test, as well, how many call agents are need per- hab, are there experience where a call center gives the service to several municipalities.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "07-08-2012"
+    }, 
+    {
+      "author": "Angel Perez", 
+      "score": "0", 
+      "text": "\n\nH\u00e9ctor,\nMy company developed a 311 system in Spanish based on Microsoft technologies. We implemented it in the USA (Indiana), Puerto Rico (about 30 municipalities and at the national level) and the Republic of Panama(at the national level). Please see the videos in the links below:\nCity of Coamo, Puerto Rico\nhttp://youtu.be/gc-1OJwKbs0\nCity of Guayama, Puerto Rico\nhttp://youtu.be/BSBzH3N2krw\nRepublic of Panam\u00e1\nhttp://youtu.be/plrTWnlbJUU\nThanks,\naperez@rocksolid.com\n\n\nH\u00e9ctor,\nMy company developed a 311 system in Spanish based on Microsoft technologies. We implemented it in the USA (Indiana), Puerto Rico (about 30 municipalities and at the national level) and the Republic of Panama(at the national level). Please see the videos in the links below:\nCity of Coamo, Puerto Rico\nhttp://youtu.be/gc-1OJwKbs0\n\nCity of Guayama, Puerto Rico\nhttp://youtu.be/BSBzH3N2krw\n\nRepublic of Panam\u00e1\nhttp://youtu.be/plrTWnlbJUU\n\nThanks,\naperez@rocksolid.com\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "31-10-2013"
+    }
+  ], 
+  "answers_count": 4, 
+  "author": "Hector Paniagua", 
+  "id": 22073, 
+  "score": "0", 
+  "tags": [
+    "311/CRM Systems"
+  ], 
+  "text": "\n\nI want to start a 311 service in Costa Rica, does ICMA have experiences in establishing this service in latin america.\nbest regards\n\n", 
+  "title": "Establishing a 311 in Costa Rica", 
+  "when": "07-08-2012"
+}

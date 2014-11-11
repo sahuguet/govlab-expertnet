@@ -1,0 +1,21 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Ryan Hahaj", 
+      "score": "0", 
+      "text": "\n\nHello Brian, \nBPOS keeps getting better and better.  It is a wonderful alternative to purchasing hardware or other hosted environments.  The organization that I work for stays agnostic when it come to Google or Microsoft - but most of the companies that have required our services have been migrating to the BPOS environment.  We provide additional layers of support to these organizations as well - and issues have been few and far between.  \nHope this helps!\n\n\nHello Brian, \n\nBPOS keeps getting better and better.  It is a wonderful alternative to purchasing hardware or other hosted environments.  The organization that I work for stays agnostic when it come to Google or Microsoft - but most of the companies that have required our services have been migrating to the BPOS environment.  We provide additional layers of support to these organizations as well - and issues have been few and far between.  \n\nHope this helps!\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "17-08-2010"
+    }
+  ], 
+  "answers_count": 1, 
+  "author": "Brian Derr", 
+  "id": 20322, 
+  "score": "0", 
+  "tags": [
+    "Technology"
+  ], 
+  "text": "\n\nWe plan to replace our email solution this year and also would like to plan for a new intranet. Two options we will look at are Google Apps for Business and Microsoft Business Productivity Online Suite (BPOS). \nWhile Google Apps for Business sounds great, I've read and heard mixed reviews, especially regarding integration with Outlook, which users are likely to want to keep using. I haven't heard a downside to Microsoft's BPOS. \nIf you have migrated to either Google Apps or Microsoft BPOS I'd appreciate hearing what the real life experience was like. If you have documents that summarize your analysis and decision, I'm sure that I and others would find them helpful to review.\n\n", 
+  "title": "Have you migrated your organization to Google Apps or Microsoft BPOS Suite?", 
+  "when": "16-08-2010"
+}

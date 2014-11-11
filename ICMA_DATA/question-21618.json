@@ -1,0 +1,29 @@
+{
+  "answer_by": "01-02-2012", 
+  "answers": [
+    {
+      "author": "Alexandra Iannolo", 
+      "score": "0", 
+      "text": "\n\nHello,\nI found some resources that may be a helpful start to your research.\nThis is a report from the Department of Computer Science and Engineering at Pennsylvania State University. It details the \u201cEconomics of Cloud Computing\u201d and its advantages over in-house systems.\nhttp://www.cse.psu.edu/research/publications/tech-reports/2011/cse-11-002.pdf\nThis article briefly discusses the cost of Cloud systems vs. Co-location.\nhttp://www.datacenterknowledge.com/archives/2010/08/23/comparing-the-cost-of-cloud-vs-colocation/\nAlso, a found a blog with general information on cloud system costs.\nhttp://www.uptimesoftware.com/uptimeblog/cloud-virtualization/cost-of-cloud-computing-expensive/\nThis article details governments in the UK that have made the move to a cloud system.\nhttp://icma.org/en/Article/100375/Government_with_its_own_cloud_computing_system\nBelow is a similar article about the popularity of cloud computing in Washington DC.\nhttp://icma.org/en/Article/100338/Washington_DC_and_Cloud_Computing\nAlso, a month from today ICMA will be hosting a Webinar on Cloud Computing for Local Government. See the link below for more information about the course and its costs.\nhttp://icma.org/en/CalendarEvent/100353/Cloud_Computing_for_Local_Government\nAli Iannolo\nKnowledge Network Intern\naiannolo@ICMA.org\n\n\nHello,\n\nI found some resources that may be a helpful start to your research.\nThis is a report from the Department of Computer Science and Engineering at Pennsylvania State University. It details the \u201cEconomics of Cloud Computing\u201d and its advantages over in-house systems.\nhttp://www.cse.psu.edu/research/publications/tech-reports/2011/cse-11-002.pdf\nThis article briefly discusses the cost of Cloud systems vs. Co-location.\nhttp://www.datacenterknowledge.com/archives/2010/08/23/comparing-the-cost-of-cloud-vs-colocation/\nAlso, a found a blog with general information on cloud system costs.\nhttp://www.uptimesoftware.com/uptimeblog/cloud-virtualization/cost-of-cloud-computing-expensive/\nThis article details governments in the UK that have made the move to a cloud system.\nhttp://icma.org/en/Article/100375/Government_with_its_own_cloud_computing_system\nBelow is a similar article about the popularity of cloud computing in Washington DC.\nhttp://icma.org/en/Article/100338/Washington_DC_and_Cloud_Computing\nAlso, a month from today ICMA will be hosting a Webinar on Cloud Computing for Local Government. See the link below for more information about the course and its costs.\nhttp://icma.org/en/CalendarEvent/100353/Cloud_Computing_for_Local_Government\n\nAli Iannolo\nKnowledge Network Intern\naiannolo@ICMA.org\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "17-01-2012"
+    }, 
+    {
+      "author": "Beverly Thames", 
+      "score": "0", 
+      "text": "\n\nThanks Alexandra. The blog posts had links to more information. Eventually I ended up at these two sites:\n Cloud Price Calculator - a super simple way to compare cloud hosting costs among vendors\nhttp://cloudpricecalculator.com/\nAWS Economics Center - loads of resources, including spreadsheets to help you compare costs\nhttp://aws.amazon.com/economics/\nI also registered for the ICMA webinar next month.\n\n\nThanks Alexandra. The blog posts had links to more information. Eventually I ended up at these two sites:\n Cloud Price Calculator - a super simple way to compare cloud hosting costs among vendors\nhttp://cloudpricecalculator.com/\nAWS Economics Center - loads of resources, including spreadsheets to help you compare costs\nhttp://aws.amazon.com/economics/\nI also registered for the ICMA webinar next month.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "20-01-2012"
+    }
+  ], 
+  "answers_count": 2, 
+  "author": "Beverly Thames", 
+  "id": 21618, 
+  "score": "0", 
+  "tags": [
+    "Hiring", 
+    "Finance and Budgeting", 
+    "Technology"
+  ], 
+  "text": "\n\nMy county is moving to a Drupal web content management system. We are trying to decide between hosting the new website in our county data center or moving to the cloud. Has anyone done a cost-benefit analysis for in-house vs cloud web hosting?\n\n", 
+  "title": "cost-benefit for in-house IT vs cloud", 
+  "when": "12-01-2012"
+}

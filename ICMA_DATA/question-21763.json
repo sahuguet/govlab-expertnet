@@ -1,0 +1,51 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Robert Woods", 
+      "score": "0", 
+      "text": "\n\nOnly if it works for our needs.\nWe are strong believers in ICMA performance measurement, but find that most software systems cannot provide the type of management information needed to generate the reports. As a result, we have been building our own systems, or writing our own reports to get the data we need.\nMost governments are probably not able to do that.\n\n\nOnly if it works for our needs.\n\nWe are strong believers in ICMA performance measurement, but find that most software systems cannot provide the type of management information needed to generate the reports. As a result, we have been building our own systems, or writing our own reports to get the data we need.\n\nMost governments are probably not able to do that.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "15-03-2012"
+    }, 
+    {
+      "author": "Kenneth Decker", 
+      "score": "0", 
+      "text": "\n\nWe're looking at OpenOffice now.\n\n\nWe're looking at OpenOffice now.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "19-03-2012"
+    }, 
+    {
+      "author": "Jennifer Smith", 
+      "score": "0", 
+      "text": "\n\nHope some of this is helpful:\n1/ Over a year ago, our Communications Office realized WordPress was a viable CMS option -- and not just a \"blogging tool.\" Partnering with our Dept. of Technology Services, we formally adopted WordPress as our \"alternative CMS approach\" to building (or rebuilding) new websites. So, far it's been highly successful, allowing us to create new websites quickly and efficiently (LOW cost!). And equally important -- the content updaters/internal clients are thrilled. An easy-to-use tool that accomplishes their business objectives -- imagine that! You've heard the phrase, \"There's an app for that.\" Well with WordPress, there's a PlugIn for pretty much everything. Is it perfect? No. Is it working well for very low/no cost. YES. (Note: One challenge we're starting to deal with more aggressively is creating consistency across the new sites.)\nA sampling of sites we're running on WordPress (and more in the works): library.arlingtonva.us, columbiapikeva.us, freshaireva.us, arlingtonplace.us. \n(For technie folks: Our Tech Services Dept has set up a multisite installation of WordPress to create efficiences in enterprise-level site administration -- hosted externally.)\n\n\nHope some of this is helpful:\n1/ Over a year ago, our Communications Office realized WordPress was a viable CMS option -- and not just a \"blogging tool.\" Partnering with our Dept. of Technology Services, we formally adopted WordPress as our \"alternative CMS approach\" to building (or rebuilding) new websites. So, far it's been highly successful, allowing us to create new websites quickly and efficiently (LOW cost!). And equally important -- the content updaters/internal clients are thrilled. An easy-to-use tool that accomplishes their business objectives -- imagine that! You've heard the phrase, \"There's an app for that.\" Well with WordPress, there's a PlugIn for pretty much everything. Is it perfect? No. Is it working well for very low/no cost. YES. (Note: One challenge we're starting to deal with more aggressively is creating consistency across the new sites.)\n\nA sampling of sites we're running on WordPress (and more in the works): library.arlingtonva.us, columbiapikeva.us, freshaireva.us, arlingtonplace.us. \n\n(For technie folks: Our Tech Services Dept has set up a multisite installation of WordPress to create efficiences in enterprise-level site administration -- hosted externally.)\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "19-03-2012"
+    }, 
+    {
+      "author": "Jennifer Smith", 
+      "score": "0", 
+      "text": "\n\n2/ Just as an added tidbit -- we're using a cool low/no-cost software recently for some presentations -- called Prezio (http://prezi.com/).\n\n\n2/ Just as an added tidbit -- we're using a cool low/no-cost software recently for some presentations -- called Prezio (http://prezi.com/).\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "19-03-2012"
+    }, 
+    {
+      "author": "Julie Butler", 
+      "score": "0", 
+      "text": "\n\nThere will be a session on this topic at the ICMA Annual Conference in Phoenix this October.\n\n\nThere will be a session on this topic at the ICMA Annual Conference in Phoenix this October.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "19-03-2012"
+    }, 
+    {
+      "author": "Adam Carpenetti", 
+      "score": "0", 
+      "text": "\n\nSupporting these types of software can be hit or miss.  If your IT department is comfortable at being the first and sometimes last line of tech support on these potential critical apps, then I say go for it.  Also remember, while your current staff may be comfortable working with these pieces of software, make sure future staff is well aware.  We have ran into a couple issues with custom-built apps and employee turnover.\nWe looked at OpenOffice some time ago and ultimately decided against it.  Some of our enterprise applications relied on that strong integration with MS Office.  End-user training and version compatibility can also be very cumbersome with OpenOffice. \nI recently saw a presentation using Prezi.  Very cool!!\n\n\nSupporting these types of software can be hit or miss.  If your IT department is comfortable at being the first and sometimes last line of tech support on these potential critical apps, then I say go for it.  Also remember, while your current staff may be comfortable working with these pieces of software, make sure future staff is well aware.  We have ran into a couple issues with custom-built apps and employee turnover.\nWe looked at OpenOffice some time ago and ultimately decided against it.  Some of our enterprise applications relied on that strong integration with MS Office.  End-user training and version compatibility can also be very cumbersome with OpenOffice. \nI recently saw a presentation using Prezi.  Very cool!!\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "21-03-2012"
+    }
+  ], 
+  "answers_count": 6, 
+  "author": "Bryan Betts", 
+  "id": 21763, 
+  "score": "0", 
+  "tags": [
+    "Technology"
+  ], 
+  "text": "\n\nThinking specifically of government/public sector entities, how willing is your IT department to make use of freeware and open source software to meet needs in these time of dwindling budgets?\n\n", 
+  "title": "Making use of freeware in the Enterprise", 
+  "when": "15-03-2012"
+}

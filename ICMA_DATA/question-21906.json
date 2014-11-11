@@ -1,0 +1,41 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Austin Abraham", 
+      "score": "0", 
+      "text": "\n\nHi Noah, can you provide a little more information on what you are looking for?  Do you simply want to track vehicles individually for costs and purchase date?  Are you trying to develop an analytical tool for determining when each vehicle should be replaced? Or are you looking for a method to back charge departments for the operating costs of vehicles?  I'll be happy to provide you more details from my fleet management experience.  Feel free to email me at asabraham@aol.com if you wish.\n\n\nHi Noah, can you provide a little more information on what you are looking for?  Do you simply want to track vehicles individually for costs and purchase date?  Are you trying to develop an analytical tool for determining when each vehicle should be replaced? Or are you looking for a method to back charge departments for the operating costs of vehicles?  I'll be happy to provide you more details from my fleet management experience.  Feel free to email me at asabraham@aol.com if you wish.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "18-05-2012"
+    }, 
+    {
+      "author": "James Twombly", 
+      "score": "0", 
+      "text": "\n\nI've attached what we use to make determinations on vehicle replacement- we use 8 factors and score each one- the total of the scores is then used.  Let me know if you have any questions.\n\n\nI've attached what we use to make determinations on vehicle replacement- we use 8 factors and score each one- the total of the scores is then used.  Let me know if you have any questions.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "06-06-2012"
+    }, 
+    {
+      "author": "Tom Nosack", 
+      "score": "0", 
+      "text": "\n\nOurs is a little simpler than James' system, with four factors: mileage (or hours), age, maint cost, fuel cost. five points for each category except 10 for maintenance. Our county's software calculates it in a report making it easy to use and adjust if you decide to weigh factors differently.\n\n\nOurs is a little simpler than James' system, with four factors: mileage (or hours), age, maint cost, fuel cost. five points for each category except 10 for maintenance. Our county's software calculates it in a report making it easy to use and adjust if you decide to weigh factors differently.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "07-06-2012"
+    }, 
+    {
+      "author": "Robert Woods", 
+      "score": "0", 
+      "text": "\n\nI had to deal with this back in 1980's and after a lot of research we generally decided that there was no reliable way to decide when to replace a given piece of equipment. I think setting on an acceptable age range for a given class of equipment that folks can buy into as \"resonable\" (like 10 years for a staff car) and setting up an accumulation system to build reserves for planned replacement works as well as anything.\n\n\nI had to deal with this back in 1980's and after a lot of research we generally decided that there was no reliable way to decide when to replace a given piece of equipment. I think setting on an acceptable age range for a given class of equipment that folks can buy into as \"resonable\" (like 10 years for a staff car) and setting up an accumulation system to build reserves for planned replacement works as well as anything.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "07-06-2012"
+    }
+  ], 
+  "answers_count": 4, 
+  "author": "Noah Simon", 
+  "id": 21906, 
+  "score": "0", 
+  "tags": [
+    "Finance and Budgeting", 
+    "Fleets", 
+    "Public Works"
+  ], 
+  "text": "\n\nDoes anybody have examples of a spreadsheet used to track fleet maintenance, vehicel replacement to share with me?  I\u2019m looking to create something for our use and want to see how others have done it/variables used, etc.\n\n", 
+  "title": "Fleet Management, Maintenance, Vehicle Replacements/policies", 
+  "when": "18-05-2012"
+}

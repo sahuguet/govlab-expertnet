@@ -1,0 +1,42 @@
+{
+  "answer_by": null, 
+  "answers": [
+    {
+      "author": "Robert Berkey", 
+      "score": "0", 
+      "text": "\n\nI read your description of how you publish the budget.  Leesburg, Virginia does the same.  It is cumbersome and very inefficient.  We looked at using a publishing software.  However, we would have to train staff to become proficient in the software.  Being a small town government, we don't have the resources to do that.  Let me know if you get any responses.  My email address is bberkey@leesburg va.gov.  Good luck.\n\n\nI read your description of how you publish the budget.  Leesburg, Virginia does the same.  It is cumbersome and very inefficient.  We looked at using a publishing software.  However, we would have to train staff to become proficient in the software.  Being a small town government, we don't have the resources to do that.  Let me know if you get any responses.  My email address is bberkey@leesburg va.gov.  Good luck.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "17-02-2012"
+    }, 
+    {
+      "author": "Randy Webster", 
+      "score": "0", 
+      "text": "\n\nPortland implemented a budget publishing application in 2000. An upgrade to a very similar application is currently underway. Both integrate data from the budget system with text and graphics, publishing the budget document. Like any application, it takes support, care and tending. But it is much more efficient at producing professional level documents than our old approach: manual combining word processing and spreadsheet documents nearly page by page. I was project manager on the first implementation. The system produces print and web ready pdf documents, including the Budget-in-Brief. Let me know if you want to discuss: randy.webster@portlandoregon.gov. See our website for the finished documents in pdf: http://www.portlandonline.com/omf/index.cfm?c=25955\n\n\nPortland implemented a budget publishing application in 2000. An upgrade to a very similar application is currently underway. Both integrate data from the budget system with text and graphics, publishing the budget document. Like any application, it takes support, care and tending. But it is much more efficient at producing professional level documents than our old approach: manual combining word processing and spreadsheet documents nearly page by page. I was project manager on the first implementation. The system produces print and web ready pdf documents, including the Budget-in-Brief. Let me know if you want to discuss: randy.webster@portlandoregon.gov. See our website for the finished documents in pdf: http://www.portlandonline.com/omf/index.cfm?c=25955\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "17-02-2012"
+    }, 
+    {
+      "author": "Leigh Wallace", 
+      "score": "0", 
+      "text": "\n\nCity of Austin does the same as described in San Antonio. About 75% of our pages are produced in our custom budget software, but we still have some pages in Word and Excel. All is converted to PDF, assembled and sent to printer. We have reduced the number of printed copies over the years for costs savings. This year we plan to transition to only digital copies for our branch libraries. That will result in another significant reduction, leaving printed copies to our budget office, CMO and Council. We also moved to an \"eco font\" that uses less ink per page.\n\n\nCity of Austin does the same as described in San Antonio. About 75% of our pages are produced in our custom budget software, but we still have some pages in Word and Excel. All is converted to PDF, assembled and sent to printer. We have reduced the number of printed copies over the years for costs savings. This year we plan to transition to only digital copies for our branch libraries. That will result in another significant reduction, leaving printed copies to our budget office, CMO and Council. We also moved to an \"eco font\" that uses less ink per page.\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "05-03-2012"
+    }, 
+    {
+      "author": "Michael Baker", 
+      "score": "0", 
+      "text": "\n\nA few years back, the Village of Downers Grove, IL went to a budget document production system that uses a combination of MS Office programs, including Excel and Publisher, and it has worked quite well for us.  \nBasically, we export data from our financial software system (Eden) into Excel.  Several other worksheets in that same Excel workbook have pre-established formulas that create the tables and graphs that ultimately appear in the document.  Those tables and graphs are linked to the publisher pages of our budget document.   What this effectively means is that even though changes may be occurring regularly with the account numbers that make up the budget, all we have to do is replace the raw data in the Excel worksheet, and, because of the formulas and links, the changes flow though the tables and graphs and ultimately the Publisher document with minimal staff time involved.  \nThe Publisher file is printed to PDF for the final document that appears on our website.    The document is available at the following link:\nhttp://www.downers.us/govt/village-budget\n\n\nA few years back, the Village of Downers Grove, IL went to a budget document production system that uses a combination of MS Office programs, including Excel and Publisher, and it has worked quite well for us.  \n\nBasically, we export data from our financial software system (Eden) into Excel.  Several other worksheets in that same Excel workbook have pre-established formulas that create the tables and graphs that ultimately appear in the document.  Those tables and graphs are linked to the publisher pages of our budget document.   What this effectively means is that even though changes may be occurring regularly with the account numbers that make up the budget, all we have to do is replace the raw data in the Excel worksheet, and, because of the formulas and links, the changes flow though the tables and graphs and ultimately the Publisher document with minimal staff time involved.  \n\nThe Publisher file is printed to PDF for the final document that appears on our website.    The document is available at the following link:\n\nhttp://www.downers.us/govt/village-budget\n\n\nSave Changes\nCancel\n\n\n\n", 
+      "when": "06-03-2012"
+    }
+  ], 
+  "answers_count": 4, 
+  "author": "Bryan Layton", 
+  "id": 21700, 
+  "score": "0", 
+  "tags": [
+    "Sustainability", 
+    "Lean Government", 
+    "Finance and Budgeting", 
+    "Process Improvement"
+  ], 
+  "text": "\n\nThe City of San Antonio is looking for ideas to more efficiently assemble and publish our annual adopted budget document (800+ pages).  Currently, the various sections (combination of Word for write-ups, Excel for fund schedules, and database reports for program changes and capital projects) are converted to a single PDF, which is then sent to the print shop and posted on the website.  Has anyone had success in using other types of software or processes to reduce the time and effort to publish their budget documents?  Has anyone stopped printing paper-editions of their budget documents completely?  What new ideas are there?\nThank you -\n\n", 
+  "title": "New Ideas for assembling Annual Adopted Budget Document", 
+  "when": "17-02-2012"
+}
